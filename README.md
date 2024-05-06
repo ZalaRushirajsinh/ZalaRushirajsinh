@@ -12,7 +12,7 @@ Myself Zala Rushirajsinh
 | Debugging | Problem Solving
 
 ### About Me
-🌟 enthusiast | 📚 Hard Worker | 🕒 Time Manager
+🌟 Enthusiast | 📚 Hard Worker | 🕒 Time Manager
 
 🚀 Passionate about learning new things. Love to do what makes me happy as well as enjoying every step which brings new challenges.
 
