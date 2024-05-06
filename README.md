@@ -8,5 +8,5 @@ Myself Zala Rushirajsinh
 💻 Java | C++ | Python | JavaScript
  | HTML | CSS | PHP | MySQL | Flutter |
    
-🧠 Algorithms | Firebase |
-👨‍💻 Debugging | Problem Solving
+🧠 Algorithms | Firebase 
+| Debugging | Problem Solving
