@@ -3,7 +3,7 @@ Myself Zala Rushirajsinh
 
 🎓 B.Tech student in ICT at Marwadi University (3rd Year) | 📍 Rajkot, Gujarat
 
-Skills
+### Skills
 
 💻 Java | C++ | Python | JavaScript
 🌐 HTML | CSS | PHP | MySQL | Flutter
