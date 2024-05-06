@@ -6,8 +6,7 @@ Myself Zala Rushirajsinh
 ### Skills
 
 💻 Java | C++ | Python | JavaScript
-🌐 HTML | CSS | PHP | MySQL 
-   Flutter |
+🌐 HTML | CSS | PHP | MySQL | Flutter |
    
 🧠 Algorithms | Firebase |
 👨‍💻 Debugging | Problem Solving
