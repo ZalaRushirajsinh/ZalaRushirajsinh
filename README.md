@@ -10,3 +10,10 @@ Myself Zala Rushirajsinh
    
 🧠 Algorithms | Firebase 
 | Debugging | Problem Solving
+
+### About Me
+🌟 enthusiast | 📚 Hard Worker | 🕒 Time Manager
+
+🚀 Passionate about learning new things. Love to do what makes me happy as well as enjoying every step which brings new challenges.
+
+💻 So Let's connect and code together! 
