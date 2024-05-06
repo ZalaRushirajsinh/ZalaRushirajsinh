@@ -19,5 +19,5 @@ Myself Zala Rushirajsinh
 💻 So Let's connect and code together! 
 🔗 zalarushirajsinh07@gmail.com
 
-[LinkedIn](www.linkedin.com/in/zala-rushirajsinh-a896a4222) | [HackerRank](https://www.hackerrank.com/profile/zalarushirajsin1)
+[LinkedIn](https://www.linkedin.com/in/zala-rushirajsinh-a896a4222/) | [HackerRank](https://www.hackerrank.com/profile/zalarushirajsin1)
 
