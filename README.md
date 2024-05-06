@@ -9,7 +9,7 @@ Myself Zala Rushirajsinh
  | HTML | CSS | PHP | MySQL | Flutter |
    
 🧠 Algorithms | Firebase 
-| Debugging | Problem Solving
+| Debugging | Problem Solving |
 
 ### About Me
 🌟 Enthusiast | 📚 Hard Worker | 🕒 Time Manager
@@ -18,3 +18,6 @@ Myself Zala Rushirajsinh
 
 💻 So Let's connect and code together! 
 🔗 zalarushirajsinh07@gmail.com
+
+[LinkedIn](www.linkedin.com/in/zala-rushirajsinh-a896a4222) | [HackerRank](https://www.hackerrank.com/profile/zalarushirajsin1)
+
